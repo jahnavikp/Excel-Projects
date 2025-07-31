@@ -29,7 +29,9 @@ This project demonstrates how to transform raw customer sales data into a profes
 6. Education level plays a role—college graduates tend to purchase more often.
 
 
-[./images/picture1.png](https://github.com/jahnavikp/Excel-Projects/blob/main/Bike%20Sales%20Dashboard/Images/Dashboard.png)
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/jahnavikp/Excel-Projects/blob/main/Bike%20Sales%20Dashboard/Images/Dashboard.png?raw=true)
 
 
 
